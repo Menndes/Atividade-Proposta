@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <head>
 <link rel="stylesheet" type="text/css" href="estilo.css" media="screen">
-<link rel="shortcut icon" href="seuavatar" type="image/x-icon">
+<link rel="shortcut icon" href="image0.jpeg" type="image/x-icon">
 <title>suapagina</title>
 </head>
 <body>
@@ -10,9 +10,9 @@
 <div>
 <table>
 <tr>
-<td><center><img class="img3" src="seuavatar"></center></td>
+<td><center><img class="img3" src="image0.jpeg"></center></td>
 <td>
-<p>sua apresentação</td>
+<p> Olá, me chamo Isabella, temho 16 anos e estou cursando o  Novo Ensino Médio</td>
 </tr>
 </table>
 </div>
@@ -20,10 +20,10 @@
 </body>
 <div class="linha" align="right">
 
-<a href="mailto: seuemail@escola.pr.gov.br"><img src="email.png"
+<a href="mailto: Isabella.mendes@escola.pr.gov.br"><img src="email.png"
 
 width="30px"></a>
-<a href="+55 seu telefone"><img src="fone.png" width="30px"></a>
+<a href="+55 (44)99866-0354"><img src="fone.png" width="30px"></a>
 </div>
 <body>
 <center>
@@ -35,7 +35,7 @@ width="30px"></a>
 </table>
 </div>
 <div>
-<footer class="linha"> Desenvolvido por Seu nome</footer>
+<footer class="linha"> Desenvolvido por Isabella Mendes</footer>
 </div>
 </center>
 </body>
